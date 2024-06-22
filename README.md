@@ -1,2 +1,2 @@
 # Application-console-de-gestion-universitaire
-Application console de gestion des étudiants et du personnel universitaire en utilisant les principes de la programmation orientée objet (POO) en langage C++. 
+Le projet que nous avons entrepris consiste en la conception et la mise en œuvre d'une application de gestion des étudiants et du personnel universitaire en utilisant les principes de la programmation orientée objet (POO) en C++. L'objectif principal de cette application est de fournir un outil complet pour la gestion des informations des étudiants inscrits à l'université ainsi que celles du personnel enseignant et administratif. 
